@@ -1,0 +1,9 @@
+Se tienen los siguientes datos:
+	943 clientes
+	1682 peliculas
+	100,000 calificaciones
+
+Cada renglón en el archivo Peliculas_Clientes_Evaluaciones.txt tiene la siguiente estructura:
+IDCliente  IDPelícula  Calificación
+	
+
